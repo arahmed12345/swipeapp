@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "text-swiper",
-    "slug": "text-swiper",
+    "name": "swipeapp",
+    "slug": "swipeapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
